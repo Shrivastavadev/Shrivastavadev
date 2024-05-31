@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dev Shrivastava</h1>
-<h3 align="center">A computer Science Enthusiast from India</h3>
+<h3 align="center">A Computer Science Enthusiast from India</h3>
 
 <p align="center">
   <img src="https://github.com/Shrivastavadev/Shrivastavadev/assets/137807080/07379145-2027-4d94-bba8-5f25fa20920f" width ="200" height ="200" alt="First Image" style="margin-right: 20px;"/>
